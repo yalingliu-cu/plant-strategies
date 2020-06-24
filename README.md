@@ -2,7 +2,7 @@ This repository host the products of global estimates for rooting depth proxy an
 
 **Product details**
 
-The readers are referred to the included file "Rooting Depth and Plant Hydraulic Resistance Proxy Products.pdf" for the product details.
+The readers are referred to the included file `Product details.pdf` for the product details.
 
 **Contact**
 
